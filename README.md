@@ -20,7 +20,7 @@ I build production AI systems — LLM-powered pipelines, RAG architectures, and 
 **AI Engineer** · Konverz AI · *Current*
 Building LLM-powered document understanding and RAG pipelines. Owning the end-to-end ML lifecycle — data, evaluation, fine-tuning, deployment.
 
-**Software Engineer — Cloud** · Oracle · *Jan 2025 – {End Date}*
+**Software Engineer — Cloud** · Oracle · *Jan 2025 – May 2026*
 Shipped a Java/Kubernetes Control Plane microservice for OCI's enterprise resource provisioning platform. Worked in ML tooling for internal systems.
 
 **Software Engineer Intern** · Microsoft · *May – Jul 2024*
