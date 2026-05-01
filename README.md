@@ -15,6 +15,21 @@ I build production AI systems — LLM-powered pipelines, RAG architectures, and 
 - **Fine-tuning & evaluation** for production NLP
 
 ---
+## 💼 Experience
+
+**AI Engineer** · Konverz AI · *Current*
+Building LLM-powered document understanding and RAG pipelines. Owning the end-to-end ML lifecycle — data, evaluation, fine-tuning, deployment.
+
+**Software Engineer — Cloud** · Oracle · *Jan 2025 – {End Date}*
+Shipped a Java/Kubernetes Control Plane microservice for OCI's enterprise resource provisioning platform. Worked in ML tooling for internal systems.
+
+**Software Engineer Intern** · Microsoft · *May – Jul 2024*
+Executed zero-downtime migration of 30K+ users across 3 teams. Shipped REST APIs in C# on Azure with a React frontend.
+
+**Undergraduate Research Fellow** · Indian Academy of Sciences · *May – Jul 2023*
+Selected among top 1% of national applicants. Evaluated 5+ dimensionality reduction techniques (PCA, t-SNE, UMAP), reducing computational complexity by 40%.
+
+---
 
 ## 🛠️ Technical Arsenal
 
@@ -46,10 +61,6 @@ I build production AI systems — LLM-powered pipelines, RAG architectures, and 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
-### 📊 GitHub stats
-
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khu3086&show_icons=true&theme=default&hide_border=true)
 
 ### 🤝 Connect
 
