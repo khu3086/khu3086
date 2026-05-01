@@ -53,4 +53,4 @@ I build production AI systems — LLM-powered pipelines, RAG architectures, and 
 
 ### 🤝 Connect
 
-[LinkedIn](https://linkedin.com/in/khushi-n-81ba01248) · [Email](mailto:khushi.nigamwork@gmail.com)
+[LinkedIn](https://linkedin.com/in/khushi-n-81ba01248) · [Email](mailto:khushi.nigamwork@gmail.com) · [X](https://x.com/khushi_on_twt)
